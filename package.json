@@ -20,6 +20,10 @@
     "url": "https://github.com/shubhamgautam/notifigo/issues"
   },
   "homepage": "https://github.com/shubhamgautam/notifigo#readme",
+  "browser": {
+    "dom": "component-dom",
+    "emitter": "component-emitter"
+  },
   "dependencies": {
     "component-dom": "^1.0.8",
     "component-emitter": "^1.2.0",
