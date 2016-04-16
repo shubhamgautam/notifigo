@@ -10,7 +10,7 @@ var onBody = require('on-body');
 /**
 * Notification element
 */
-var list = dom('<div id="notifigo">');
+var list = dom('<ul id="notifigo">');
 
 
 /**
