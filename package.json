@@ -1,0 +1,28 @@
+{
+  "name": "notifigo",
+  "version": "1.0.0",
+  "description": "light weight library for resposive customized notifications",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamgautam/notifigo.git"
+  },
+  "keywords": [
+    "javascript",
+    "notifications"
+  ],
+  "author": "shubham gautam <shubhcool1@gmail.com> (https://github.com/shubhamgautam/notifigo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubhamgautam/notifigo/issues"
+  },
+  "homepage": "https://github.com/shubhamgautam/notifigo#readme",
+  "dependencies": {
+    "component-dom": "^1.0.8",
+    "component-emitter": "^1.2.0",
+    "on-body": "0.0.1"
+  }
+}

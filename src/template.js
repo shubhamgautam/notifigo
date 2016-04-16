@@ -1,0 +1,1 @@
+module.exports = "<li class='notification'><span class'title'></span> <span class'message'></span></li>";
