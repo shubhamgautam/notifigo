@@ -1,6 +1,6 @@
 {
   "name": "notifigo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "light weight library for resposive customized notifications",
   "main": "src/index.js",
   "scripts": {
