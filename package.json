@@ -1,6 +1,6 @@
 {
   "name": "notifigo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "light weight library for resposive customized notifications",
   "main": "src/index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "dom": "component-dom",
     "emitter": "component-emitter"
   },
-  "styles": [
+  "files": [
     "src/notification.css"
   ],
   "dependencies": {
