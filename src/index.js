@@ -90,7 +90,7 @@ exports.Notification = Notification;
 function Notification(options) {
   Emitter.call(this);
   options = options || {};
-  this.el = dom(require('./template'));
+  this.el = dom(require('./src/template'));
   this.render(options);
   if (options.classname) this.el.addClass(options.classname);
   if (Notification.effect) this.effect(Notification.effect);
