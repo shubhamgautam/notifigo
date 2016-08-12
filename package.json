@@ -1,8 +1,9 @@
 {
   "name": "notifigo",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "light weight library for resposive customized notifications",
-  "main": "src/index.js",
+  "main": "bundle.js",
+  "bin": "bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,7 +25,7 @@
     "dom": "component-dom",
     "emitter": "component-emitter"
   },
- 
+
   "dependencies": {
     "component-dom": "^1.0.8",
     "component-emitter": "^1.2.0",
